@@ -1,0 +1,12 @@
+D:\_DOCUMENTE&ALTELE\_WANTSOME\GhitHub\week05\Module4-OOP-TEMA04\BMCarStoreModels\bin\Debug\BMCarStoreModels.dll
+D:\_DOCUMENTE&ALTELE\_WANTSOME\GhitHub\week05\Module4-OOP-TEMA04\BMCarStoreModels\bin\Debug\BMCarStoreModels.pdb
+D:\_DOCUMENTE&ALTELE\_WANTSOME\GhitHub\week05\Module4-OOP-TEMA04\BMCarStoreModels\obj\Debug\BMCarStoreModels.csproj.CoreCompileInputs.cache
+D:\_DOCUMENTE&ALTELE\_WANTSOME\GhitHub\week05\Module4-OOP-TEMA04\BMCarStoreModels\obj\Debug\BMCarStoreModels.dll
+D:\_DOCUMENTE&ALTELE\_WANTSOME\GhitHub\week05\Module4-OOP-TEMA04\BMCarStoreModels\obj\Debug\BMCarStoreModels.pdb
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Module4-OOP-TEMA04\BMCarStoreModels\bin\Debug\BMCarStoreModels.dll
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Module4-OOP-TEMA04\BMCarStoreModels\bin\Debug\BMCarStoreModels.pdb
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Module4-OOP-TEMA04\BMCarStoreModels\obj\Debug\BMCarStoreModels.csproj.CoreCompileInputs.cache
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Module4-OOP-TEMA04\BMCarStoreModels\obj\Debug\BMCarStoreModels.dll
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Module4-OOP-TEMA04\BMCarStoreModels\obj\Debug\BMCarStoreModels.pdb
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Module4-OOP-TEMA04\BMCarStoreModels\bin\Debug\BMCarStoreModels.dll.CodeAnalysisLog.xml
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Module4-OOP-TEMA04\BMCarStoreModels\bin\Debug\BMCarStoreModels.dll.lastcodeanalysissucceeded
