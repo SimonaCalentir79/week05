@@ -1,0 +1,6 @@
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Module4-OOP-TEMA05\SchoolClassesModels\bin\Debug\SchoolClassesModels.dll
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Module4-OOP-TEMA05\SchoolClassesModels\bin\Debug\SchoolClassesModels.pdb
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Module4-OOP-TEMA05\SchoolClassesModels\obj\Debug\Pb1.SchoolClassesModels.csprojAssemblyReference.cache
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Module4-OOP-TEMA05\SchoolClassesModels\obj\Debug\Pb1.SchoolClassesModels.csproj.CoreCompileInputs.cache
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Module4-OOP-TEMA05\SchoolClassesModels\obj\Debug\SchoolClassesModels.dll
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Module4-OOP-TEMA05\SchoolClassesModels\obj\Debug\SchoolClassesModels.pdb
