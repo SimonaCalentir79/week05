@@ -1,0 +1,12 @@
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Module4-OOP-TEMA05\CarStoreApp\bin\Debug\CarStoreApp.exe.config
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Module4-OOP-TEMA05\CarStoreApp\bin\Debug\CarStoreApp.exe
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Module4-OOP-TEMA05\CarStoreApp\bin\Debug\CarStoreApp.pdb
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Module4-OOP-TEMA05\CarStoreApp\bin\Debug\CarStoreInterfaces.dll
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Module4-OOP-TEMA05\CarStoreApp\bin\Debug\CarStoreModels.dll
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Module4-OOP-TEMA05\CarStoreApp\bin\Debug\CarStoreInterfaces.pdb
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Module4-OOP-TEMA05\CarStoreApp\bin\Debug\CarStoreModels.pdb
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Module4-OOP-TEMA05\CarStoreApp\obj\Debug\CarStoreApp.csprojAssemblyReference.cache
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Module4-OOP-TEMA05\CarStoreApp\obj\Debug\CarStoreApp.csproj.CoreCompileInputs.cache
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Module4-OOP-TEMA05\CarStoreApp\obj\Debug\CarStoreApp.csproj.CopyComplete
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Module4-OOP-TEMA05\CarStoreApp\obj\Debug\CarStoreApp.exe
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Module4-OOP-TEMA05\CarStoreApp\obj\Debug\CarStoreApp.pdb

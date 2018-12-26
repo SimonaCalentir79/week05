@@ -1,0 +1,9 @@
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Module4-OOP-TEMA05\CarStoreModels\bin\Debug\CarStoreModels.dll
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Module4-OOP-TEMA05\CarStoreModels\bin\Debug\CarStoreModels.pdb
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Module4-OOP-TEMA05\CarStoreModels\bin\Debug\CarStoreInterfaces.dll
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Module4-OOP-TEMA05\CarStoreModels\bin\Debug\CarStoreInterfaces.pdb
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Module4-OOP-TEMA05\CarStoreModels\obj\Debug\CarStoreModels.csprojAssemblyReference.cache
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Module4-OOP-TEMA05\CarStoreModels\obj\Debug\CarStoreModels.csproj.CoreCompileInputs.cache
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Module4-OOP-TEMA05\CarStoreModels\obj\Debug\CarStoreModels.csproj.CopyComplete
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Module4-OOP-TEMA05\CarStoreModels\obj\Debug\CarStoreModels.dll
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Module4-OOP-TEMA05\CarStoreModels\obj\Debug\CarStoreModels.pdb
