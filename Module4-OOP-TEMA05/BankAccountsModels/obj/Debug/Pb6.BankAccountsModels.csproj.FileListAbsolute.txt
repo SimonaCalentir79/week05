@@ -1,0 +1,9 @@
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Module4-OOP-TEMA05\BankAccountsModels\bin\Debug\BankAccountsModels.dll
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Module4-OOP-TEMA05\BankAccountsModels\bin\Debug\BankAccountsModels.pdb
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Module4-OOP-TEMA05\BankAccountsModels\bin\Debug\BankAccountsInterfaces.dll
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Module4-OOP-TEMA05\BankAccountsModels\bin\Debug\BankAccountsInterfaces.pdb
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Module4-OOP-TEMA05\BankAccountsModels\obj\Debug\Pb6.BankAccountsModels.csprojAssemblyReference.cache
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Module4-OOP-TEMA05\BankAccountsModels\obj\Debug\Pb6.BankAccountsModels.csproj.CoreCompileInputs.cache
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Module4-OOP-TEMA05\BankAccountsModels\obj\Debug\Pb6.BankAccountsModels.csproj.CopyComplete
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Module4-OOP-TEMA05\BankAccountsModels\obj\Debug\BankAccountsModels.dll
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Module4-OOP-TEMA05\BankAccountsModels\obj\Debug\BankAccountsModels.pdb

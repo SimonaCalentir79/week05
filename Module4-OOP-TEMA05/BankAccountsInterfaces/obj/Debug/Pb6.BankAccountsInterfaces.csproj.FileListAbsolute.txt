@@ -1,0 +1,6 @@
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Module4-OOP-TEMA05\BankAccountsInterfaces\bin\Debug\BankAccountsInterfaces.dll
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Module4-OOP-TEMA05\BankAccountsInterfaces\bin\Debug\BankAccountsInterfaces.pdb
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Module4-OOP-TEMA05\BankAccountsInterfaces\obj\Debug\Pb6.BankAccountsInterfaces.csprojAssemblyReference.cache
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Module4-OOP-TEMA05\BankAccountsInterfaces\obj\Debug\Pb6.BankAccountsInterfaces.csproj.CoreCompileInputs.cache
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Module4-OOP-TEMA05\BankAccountsInterfaces\obj\Debug\BankAccountsInterfaces.dll
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Module4-OOP-TEMA05\BankAccountsInterfaces\obj\Debug\BankAccountsInterfaces.pdb

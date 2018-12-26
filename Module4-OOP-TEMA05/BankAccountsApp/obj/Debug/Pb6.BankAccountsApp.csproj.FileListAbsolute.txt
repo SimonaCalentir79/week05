@@ -1,0 +1,12 @@
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Module4-OOP-TEMA05\BankAccountsApp\obj\Debug\Pb6.BankAccountsApp.csprojAssemblyReference.cache
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Module4-OOP-TEMA05\BankAccountsApp\obj\Debug\Pb6.BankAccountsApp.csproj.CoreCompileInputs.cache
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Module4-OOP-TEMA05\BankAccountsApp\bin\Debug\BankAccountsApp.exe.config
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Module4-OOP-TEMA05\BankAccountsApp\bin\Debug\BankAccountsApp.exe
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Module4-OOP-TEMA05\BankAccountsApp\bin\Debug\BankAccountsApp.pdb
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Module4-OOP-TEMA05\BankAccountsApp\bin\Debug\BankAccountsInterfaces.dll
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Module4-OOP-TEMA05\BankAccountsApp\bin\Debug\BankAccountsModels.dll
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Module4-OOP-TEMA05\BankAccountsApp\bin\Debug\BankAccountsInterfaces.pdb
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Module4-OOP-TEMA05\BankAccountsApp\bin\Debug\BankAccountsModels.pdb
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Module4-OOP-TEMA05\BankAccountsApp\obj\Debug\Pb6.BankAccountsApp.csproj.CopyComplete
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Module4-OOP-TEMA05\BankAccountsApp\obj\Debug\BankAccountsApp.exe
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Module4-OOP-TEMA05\BankAccountsApp\obj\Debug\BankAccountsApp.pdb
